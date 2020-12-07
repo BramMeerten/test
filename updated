@@ -1,0 +1,13 @@
+<root>
+    <payment>
+        <ref>052hallo-aanpassing</ref>
+        <amount>230524234</amount>
+    </payment>
+    <payment>
+        <ref>062hallo</ref>
+        <amount>230624234</amount>
+    </payment>
+    <niewu>
+        <hallo>hey</hallo>
+    </niewu>
+</root>
